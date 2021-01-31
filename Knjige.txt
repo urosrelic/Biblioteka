@@ -1,0 +1,13 @@
+1|Hari Poter i vatreni pehar|JK.Rowling|Vulkan|3.960,00|2019|75|64
+2|Igra Prestola|Dzordz R.R.Martin|Laguna|1.599,00|2020|64|64
+3|Autsajder|Stiven King|Vulkan|1.490.00|2019|102|102
+4|1984|Dzordz Orvel|Kontrast|899,00|2015|215|213
+5|Veliki Getsbi|F. Skot Ficdzerald|Vulkan|699,00|2013|93|92
+6|Ben Hur|Luis Volas|Vulkan|999,00|1996|178|178
+7|Dzejn Ejr|Sarlot Bronte|Vulkan|765.00|2016|49|49
+8|Gordost i predrasuda|Dzejn Ostin|Vulkan-Alnari|420,00|2011|123|123
+9|Grcko blago|Irving Stoun|Vulkan|1.199,00|2018|92|92
+10|Jadnici|Viktor Igo|Vulkan|909,30|2013|58|57
+11|Slika Dorijana Greja|Oskar Vajld|Lento|450.00|2008|242|243
+12|Kraljevstvo|Ju Nebe|Laguna|989,99|2020|163|163
+13|Mrtva zona|Stiven King|Laguna|1275,00|2017|202|201
