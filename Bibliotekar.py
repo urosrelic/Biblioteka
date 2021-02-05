@@ -4,7 +4,7 @@ KNJIGE = dict()
 POLJA = ["ID", "naziv", "autori", "izdavac", "cena", "godina", "primerci"]
 TEMPLATE = "{ID:<5}{naziv:40}{autori:30}{izdavac:30}{cena:13}{godina:10}{primerci:12}{stanje:12}"
 
-
+# Unos knjige
 def unesi_knjigu():
     knjiga = dict()
     for p in POLJA:

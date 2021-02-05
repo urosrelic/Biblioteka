@@ -1,13 +1,1 @@
 Uros,Relic123,0
-Goran,Relic123,0
-UrosRelic,Lozinka123,1
-Bibliotekar,Lozinka123,1
-novi,Lozinka123,1
-neki,Lozinka123,0
-UrosRelic,Lozinka123,1
-UrosR,Lozinka123,1
-novK,Lozinka123,0
-korIme,Lozinka123,1
-Vanja,Vujcic123,0
-korisnik,Korisnik123,0
-bibliotekar,Bibliotekar123,1
